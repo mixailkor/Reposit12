@@ -1,4 +1,4 @@
-! doctype HTML>
+! doctype <HTML>
 <HEAD>
     <TITLE>Любимый дерёвня</TITLE>
     </HEAD>
