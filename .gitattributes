@@ -47,6 +47,6 @@ def f(x):
 @overload(str,int)                           
 def f(x,y):
     return x + str(y)
-print f(1)           # напечатает : 2
-print f("1")         # напечатает : 11
+print f(1)        
+print f("1")         
 f(2,2)          
